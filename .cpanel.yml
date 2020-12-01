@@ -9,7 +9,7 @@ deployment:
     - /bin/cp archive.php $DEPLOYPATH
     - /bin/cp comments.php $DEPLOYPATH
     - /bin/cp footer.php $DEPLOYPATH
-    - /bin/cp frontpage.php $DEPLOYPATH
+    - /bin/cp front-page.php $DEPLOYPATH
     - /bin/cp functions.php $DEPLOYPATH
     - /bin/cp header.php $DEPLOYPATH
     - /bin/cp index.php $DEPLOYPATH
